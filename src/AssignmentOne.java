@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * github : https://github.com/LihuaXiEvan/username-A1
- * short video:
+ * short video: https://scuonline-my.sharepoint.com/:v:/g/personal/l_xi_11_student_scu_edu_au/EbSnVV3MMZtCpE-YtZ730lABs_OO_2slusHWAcHDAR75ZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=moSVsq
  */
 public class AssignmentOne {
 
